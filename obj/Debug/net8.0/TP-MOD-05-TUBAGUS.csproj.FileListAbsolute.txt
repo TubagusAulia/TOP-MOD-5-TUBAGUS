@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\bin\Debug\net8.0\TP-MOD-05-TUBAGUS.exe
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\bin\Debug\net8.0\TP-MOD-05-TUBAGUS.deps.json
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\bin\Debug\net8.0\TP-MOD-05-TUBAGUS.runtimeconfig.json
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\bin\Debug\net8.0\TP-MOD-05-TUBAGUS.dll
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\bin\Debug\net8.0\TP-MOD-05-TUBAGUS.pdb
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.AssemblyInfo.cs
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.sourcelink.json
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.dll
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\refint\TP-MOD-05-TUBAGUS.dll
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.pdb
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\TP-MOD-05-TUBAGUS.genruntimeconfig.cache
+C:\Users\Lenovo\Kuliah\KPL - Konstruksi Perangkat Lunak\TP-MOD-05-TUBAGUS\obj\Debug\net8.0\ref\TP-MOD-05-TUBAGUS.dll
