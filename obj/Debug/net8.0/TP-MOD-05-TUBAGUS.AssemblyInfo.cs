@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-MOD-05-TUBAGUS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+badb4dbd8eb11ec6e137bd15362e22a91fdd34ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a4a37abe80d441e31ddb09503c2a3ab7c1a635")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-MOD-05-TUBAGUS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-MOD-05-TUBAGUS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
