@@ -6,9 +6,11 @@ class HaloGeneric
     {
         Console.WriteLine($"Halo user {user}");
     }
-
+}
+class Program
+{
     static void Main()
     {
-        SapaUser("Tubagus");
+        HaloGeneric.SapaUser("Tubagus"); 
     }
 }
